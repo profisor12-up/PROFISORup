@@ -68,7 +68,7 @@ class Brute(object):
             elif ngentod.lower() == 'y':
                 exit(crack.Brute().main())
             elif ngentod.lower() == 'n':
-                os.system('python2 crack.py')
+                os.system('python2 BestToolProfisor.py')
             else:
                 exit('  \x1b[0;91mTkaya y/n Halbzhera!')
         elif choose == 777262777777 or choose == 777262777777:
